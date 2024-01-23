@@ -1,0 +1,13 @@
+==========================
+    STATISTICS SUMMARY    
+==========================
+Times Played:            0
+Average Attempts:        0
+Win Percentage:         0%
+Current Streak:          0
+Longest Streak:          0
+
+
+--------------------------
+WORD     ATTEMPTS      WIN
+--------------------------
